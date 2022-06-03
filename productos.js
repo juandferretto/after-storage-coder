@@ -1,0 +1,98 @@
+let productos = [
+    {
+        nombre: "Juguete interactivo IQ Treat Ball",
+        precio: 970,
+        imagen: "https://cdn.shopify.com/s/files/1/0406/8003/0364/products/product-image-1291332388_445a8917-102c-4afe-879b-6f5f37c1a676_1024x1024.jpg?v=1592521690",
+        tipo: "Juguete",
+    },
+    {
+        nombre: "Frisbee de silicona",
+        precio: 320,
+        imagen: "https://cdn.shopify.com/s/files/1/0406/8003/0364/products/product-image-1308027576_1024x1024.jpg?v=1592521713",
+        tipo: "Juguete",
+    },
+    {
+        nombre: "Pelota de agua con compartimento",
+        precio: 500,
+        imagen: "https://cdn.shopify.com/s/files/1/0406/8003/0364/products/product-image-1285781766_1024x1024.jpg?v=1592941758",
+        tipo: "Juguete",
+    },
+    {
+        nombre: "Cuerda para morder",
+        precio: 350,
+        imagen: "https://cdn.shopify.com/s/files/1/0406/8003/0364/products/product-image-1228771554_1024x1024.jpg?v=1592521710",
+        tipo: "Juguete",
+    },
+    {
+        nombre: "Pelota con sopapa",
+        precio: 380,
+        imagen: "https://cdn.shopify.com/s/files/1/0406/8003/0364/products/product-image-1434408603_1024x1024.jpg?v=1592521705",
+        tipo: "Juguete",
+    },
+    {
+        nombre: "Botella bebedero portatil",
+        precio: 840,
+        imagen: "https://cdn.shopify.com/s/files/1/0406/8003/0364/products/product-image-721785001_1024x1024.jpg?v=1592941186",
+        tipo: "Juguete",
+    },
+    {
+        nombre: "Juguete Jigwy Gladiador Azul",
+        precio: 940,
+        imagen: "https://puppis.vteximg.com.br/arquivos/ids/163598-1000-1000/228767.jpg?v=636746890828270000",
+        tipo: "Juguete",
+    },
+    {
+        nombre: "Antipulgas Y Garrapatas Bravecto Para Perros",
+        precio: 1290,
+        imagen: "https://puppis.vteximg.com.br/arquivos/ids/167383-1000-1000/366255.jpg?v=637014017122630000",
+        tipo: "Medicamento",
+    },
+    {
+        nombre: "Antiparasitario Interno Total Full CG Perros - 15 Cc",
+        precio: 350,
+        imagen: "https://puppis.vteximg.com.br/arquivos/ids/159614-1000-1000/382117.jpg?v=636211162343630000",
+        tipo: "Medicamento",
+    },
+    {
+        nombre: "FRONTLINE Spray - 100 ml",
+        precio: 1190,
+        imagen: "https://puppis.vteximg.com.br/arquivos/ids/170176-1000-1000/373019.png?v=637142631469200000",
+        tipo: "Medicamento",
+    },
+    {
+        nombre: "Total Full Cachorro Suspension - 15 Cc",
+        precio: 240,
+        imagen: "https://puppis.vteximg.com.br/arquivos/ids/167371-1000-1000/382117.jpg?v=637014017065900000",
+        tipo: "Medicamento",
+    },
+    {
+        nombre: "Comfortis Tableta 560 Mg - 9-18 Kg",
+        precio: 610,
+        imagen: "https://puppis.vteximg.com.br/arquivos/ids/165944-1000-1000/381007.png?v=636850693330070000",
+        tipo: "Medicamento",
+    },
+    {
+        nombre: "Power Ultra ( 1 Pipeta )",
+        precio: 329,
+        imagen: "https://puppis.vteximg.com.br/arquivos/ids/157833-1000-1000/Power-Ultra.jpg?v=635852684254630000",
+        tipo: "Medicamento",
+    },
+    {
+        nombre: "Collar Antipulgas Ecthol Para Perros - 63 Cm",
+        precio: 329,
+        imagen: "https://puppis.vteximg.com.br/arquivos/ids/165646-1000-1000/332002.png?v=636764253250970000",
+        tipo: "Medicamento",
+    },
+    {
+        nombre: "Pipeta OSSPRET",
+        precio: 500,
+        imagen: "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/142/477/products/531-7f2769394edc84f72015962252726641-640-0.png",
+        tipo: "Medicamento",
+    },
+    {
+        nombre: "Pelota interactiva de goma",
+        precio: 450,
+        imagen: "https://cdn.shopify.com/s/files/1/0406/8003/0364/products/product-image-1432090831_1024x1024.jpg?v=1592521725",
+        tipo: "Juguete",
+    },
+]

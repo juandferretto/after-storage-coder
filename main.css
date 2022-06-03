@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#container-radio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+#container-radio label{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    width: 40%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+thead{
+    background-color: rgba(0, 0, 0, 0.357);
+    
+}
+
+img{
+    height: 35px;
+}

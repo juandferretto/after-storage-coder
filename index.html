@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filtros</title>
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+    
+
+    <div>
+        <h2>After - Filtros y LocalStorage</h2>
+        <div id="container-radio">
+            <label>
+                <span>Juguetes</span>
+                <input type="radio" name="filtro" value="juguete" class="radio">
+            </label>
+            <label>
+                <span>Farmacia</span>
+                <input type="radio" name="filtro" value="medicamento" class="radio">
+            </label>
+           <label>
+                <span>Todos</span>
+                <input type="radio" name="filtro" value="todos" class="radio">
+           </label>
+        </div>
+    </div>
+
+    <table>
+
+        <thead>
+            <tr>
+                <th></th>
+                <th>Nombre</th>
+                <th>Precio</th>
+            </tr>
+        </thead>
+
+        <tbody id="tbody"></tbody>
+
+    </table>
+
+    <script src="./productos.js"></script>
+    <script src="./main.js"></script>
+</body>
+</html>
